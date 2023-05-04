@@ -1,0 +1,34 @@
+IMPORTANTE: LOS SÍMBOLOS <> SE OMITEN
+
+Comprobar versión de git:
+git --version
+
+Inicializar git (en la carpeta en la que estamos):
+git init
+
+Verificar estado:
+git status
+
+Añadir un archivo listo para hacer commit:
+git add <nombre del archivo>
+
+Añadir todos los archivos:
+git add .
+
+Quitar un archivo "staged" (antes del commit):
+git rm --cached <nombre del archivo>
+
+Hacer un commit:
+git commit -m "nombre del commit"
+
+Ver el historial de commits:
+git log
+
+Añadir remoto (github):
+git remote add origin <enlace de github>
+
+Verificar remoto:
+git remote -v
+
+Subir cambios commiteados a github (por primera vez):
+git push -u origin master/main

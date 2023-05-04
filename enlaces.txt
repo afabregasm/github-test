@@ -1,0 +1,14 @@
+Elementos tipo bloque y tipo línea:
+https://www.w3schools.com/html/html_blocks.asp
+
+Primera página web:
+http://info.cern.ch/hypertext/WWW/TheProject.html
+
+Especificidad CSS:
+https://www.w3schools.com/css/css_specificity.asp
+
+Herramienta para elegir colores:
+https://htmlcolorcodes.com/color-picker/
+
+Repositorio git:
+https://github.com/git/git
